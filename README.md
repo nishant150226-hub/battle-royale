@@ -6,7 +6,13 @@
 </a>
 </p>
 
+# 🌐 Live Demo
 
+🎮 Play the game here:
+
+https://battle-royale-53sm.onrender.com/
+
+⚠️ First load may take 30–60 seconds because the server sleeps on free hosting.
 
 <h1 align="center">⚔️ Multiplayer Battle Royale Game</h1>
 
