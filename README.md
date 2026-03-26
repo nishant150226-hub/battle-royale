@@ -1,3 +1,13 @@
+# 🎮 Play Online
+
+<p align="center">
+<a href="https://battle-royale-53sm.onrender.com/">
+<img src="https://img.shields.io/badge/PLAY%20NOW-Battle%20Royale-red?style=for-the-badge&logo=gamejolt">
+</a>
+</p>
+
+
+
 <h1 align="center">⚔️ Multiplayer Battle Royale Game</h1>
 
 <p align="center">
