@@ -55,7 +55,7 @@ https://battle-royale-53sm.onrender.com/
 <img src="screenshots/gameplay.gif" width="800">
 </p>
 
-*(Add your gameplay GIF inside `/screenshots/gameplay.gif`)*
+/screenshots/gamess1.png
 
 ---
 
